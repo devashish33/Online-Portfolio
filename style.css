@@ -218,6 +218,12 @@ h4.display-4{
     font-weight: normal;
 }
 
+.contact a.btn{
+    border-radius: 64px;
+    background-color: rgb(2, 90, 78);
+    color: #EFE1D1;
+}
+
 .footer a{
     font-weight: 600;
     font-family: "Montserrat", sans-serif;
